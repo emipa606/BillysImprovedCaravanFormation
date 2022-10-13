@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BICF.ModVersion>Installed mod-version: {0}</BICF.ModVersion>
+  <BICF.SkipAnimals>Skip gathering of caravan animals by colonists</BICF.SkipAnimals>
+  <BICF.SkipAnimals.Tooltip>Animals will move to the meeting spot on their own, speeding up caravan formation</BICF.SkipAnimals.Tooltip>
+</LanguageData>

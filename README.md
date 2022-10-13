@@ -1,16 +1,17 @@
 # BillysImprovedCaravanFormation
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Billy Martins mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=953429016
 
-Since the major part of this mod is included in 1.3 of the game I will not update this unless requested
+[strike]Since the major part of this mod is included in 1.3 of the game I will not update this unless requested[/strike] 
+Updated by popular demand
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Are you tired of your colonists wandering around doing nothing while trying to form a caravan? This mod makes colonists and animals behave more intelligently during caravan formation. Animals will now move to the caravan spot on their own, and colonists will spend more of their time gathering items and loading them into pack animals. If a pawn is lost during caravan formation, the caravan will go on without them if it can. Also, this mod fixes some bugs in the caravan forming process.
@@ -30,5 +31,7 @@ To fix transport pod loading as well, check out: http://steamcommunity.com/share
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
+
 
 
